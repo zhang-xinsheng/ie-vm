@@ -1,4 +1,4 @@
-#!/bin/sh -e
+#!/bin/bash -e
 
 # Have QEMU share the shared/ folder if smbd is installed
 # Only do this if root, however, as there are problems with smbd if qemu isn't run as root
