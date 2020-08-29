@@ -1,4 +1,4 @@
-#!/bin/sh -e
+#!/bin/bash -e
 
 [ -z "$1" ] && { echo "Usage: $0 [url to IE.txt file]"; exit 1; }
 
